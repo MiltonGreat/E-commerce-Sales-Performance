@@ -12,6 +12,11 @@ The dashboard enables stakeholders to explore sales patterns across various dime
 - Monitor Order Cancellations: Understand the impact of cancellations and their relation to inventory management.
 - Provide Actionable Insights: Empower stakeholders to make data-driven decisions to improve revenue and reduce cancellations.
 
+### Screenshot
+Below is a preview of the dashboard created for this project:
+
+![Ecommerce Dashboard](https://github.com/user-attachments/assets/dcb629ea-d10c-4ec5-bdc4-126f08bb5483)
+
 ### Dataset Information
 
 The dataset contains 500,000 rows and 8 columns of sales transactions. Below is an overview of the key features:
@@ -23,11 +28,6 @@ The dataset contains 500,000 rows and 8 columns of sales transactions. Below is 
 - Price: Price per unit of the product (in GBP).
 - Quantity: Number of units sold (negative values indicate cancellations).CustomerNo: A unique identifier for each customer.
 - Country: Country where the customer resides.
-
-### Screenshot
-Below is a preview of the dashboard created for this project:
-
-![Ecommerce Dashboard](https://github.com/user-attachments/assets/dcb629ea-d10c-4ec5-bdc4-126f08bb5483)
 
 ### Dashboard Features
 
