@@ -62,6 +62,5 @@ The Tableau dashboard is designed to help stakeholders gain actionable insights 
 
 ### Source
 
-https://youtu.be/b0HAgTTVYuY?si=lolZPGASQwrJfb1c
 
-https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business?rvi=1
+Dataset: [Dataset on Kaggle](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business?rvi=1)
